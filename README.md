@@ -98,16 +98,3 @@ To identify and quantify the **key socioeconomic and demographic determinants** 
 
 ---
 
-## 👨‍🎓 Author
-
-
-**Bikram Karmakar**  
-M.Sc. in Statistics and Computing (2023–25)  
-Banaras Hindu University  
-Supervisor: Dr. Akansha Gupta
-
----
-
-## 🛠️ Usage
-
-Coming soon: Python Notebook with full code and instructions.
